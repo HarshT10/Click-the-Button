@@ -1,4 +1,4 @@
-# **JavaScript Mini Project 5 - Click the Button**
+# **JavaScript Mini Project 6 - Click the Button**
 
 - This project is a Click the Button app.
 
